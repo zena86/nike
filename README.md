@@ -38,9 +38,8 @@ CSS3/SCSS|            |Flaticon    |Adobe Photoshop|            |
 
 ![Screenshort 1](/images/imgreadme/screen-mobile1.png)|![Screenshort 1](/images/imgreadme/screen-mobile2.png)
 ------------------------------------------------------|------------------------------------------------------
-&nbsp;
 ![Screenshort 1](/images/imgreadme/screen-mobile4.png)|![Screenshort 1](/images/imgreadme/screen-mobile3.png)
-------------------------------------------------------|------------------------------------------------------
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
