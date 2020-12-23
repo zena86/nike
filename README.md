@@ -25,13 +25,16 @@ CSS3/SCSS|            |Flaticon    |Adobe Photoshop|            |
 &nbsp;
 ![Screenshort 1](/images/imgreadme/screen3.png)
 
-**2. Header изменяет цвет и ширину при скроллинге при выпадении меню затемняется фон**
+**2. Звездный рейтинг**
 
 ![Screenshort 1](/images/imgreadme/screen4.png)
-&nbsp;
+
+
+**3. При выпадении меню затемняется фон**
+
 ![Screenshort 1](/images/imgreadme/screen-dark.png)
 
-**3. Адаптация до 320px**
+**4. Адаптация до 320px**
 
 ![Screenshort 1](/images/imgreadme/screen-mobile1.png)|![Screenshort 1](/images/imgreadme/screen-mobile2.png)
 ----------------------------------------------------------|------------------------------------------------
