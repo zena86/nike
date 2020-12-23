@@ -1,10 +1,10 @@
 function fillRaiting(ratingValue){
     let starsArray = $(".red-star");
-    starsArray[0].setAttribute("width", 100*(ratingValue/20)+"%");
-    starsArray[1].setAttribute("width", 100*((ratingValue-20)/20)+"%");
-    starsArray[2].setAttribute("width", 100*((ratingValue-40)/20)+"%");
-    starsArray[3].setAttribute("width", 100*((ratingValue-60)/20)+"%");
-    starsArray[4].setAttribute("width", 100*((ratingValue-80)/20)+"%");
+    starsArray[0].setAttribute("width", Math.max(0, 100*(ratingValue/20))+"%");
+    starsArray[1].setAttribute("width", Math.max(0, 100*((ratingValue-20)/20))+"%");
+    starsArray[2].setAttribute("width", Math.max(0, 100*((ratingValue-40)/20))+"%");
+    starsArray[3].setAttribute("width", Math.max(0, 100*((ratingValue-60)/20))+"%");
+    starsArray[4].setAttribute("width", Math.max(0, 100*((ratingValue-80)/20))+"%");
 }
 
 
